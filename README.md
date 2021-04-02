@@ -19,3 +19,4 @@ Total of four spreadsheets are imported into the BI project. They create a simpl
 - type: categorical summary of the each holdings. Also, consists a target price for each holdings.
 
 ### 3. DBRM Diagram
+![DBRM](https://raw.githubusercontent.com/danypark91/StockPortfolio/main/DBRM.PNG)
