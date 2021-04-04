@@ -15,8 +15,8 @@ Power BI imports core data from Yahoo Finance website via a Web portal. The link
 Total of four spreadsheets is imported into the BI project. They create a simple database that intertwines with each other. 
 - daily trend: summary of the daily closing price between March 5th to 25th of total stocks on hold. Also, it calculates the daily loss or gain compared with the initial cost.
 - holdings: summary of the holdings and the price. Also, the data frame consists of total value and the gain or loss on individual holdings.
-- stock: daily open, high, low, close, adj close, and trade volume of each holding for the past 1 year.
-- type: categorical summary of each holding. Also, consists of a target price for each holding.
+- stock: daily open, high, low, close, adj close, and trade volume of each holding for the past year.
+- type: categorical summary of each holding. Also, contains a target price for each holding.
 
 ### 3. DBRM Diagram
 ![DBRM](https://raw.githubusercontent.com/danypark91/StockPortfolio/main/DBRM.PNG)
